@@ -1,13 +1,4 @@
-# Letter Spacing Accessibility Widget #
-
-Requires [local_accessiblity](https://github.com/ponlawat-w/moodle-local_accessibility) to be installed and enabled.
-
-This plugin allows user to customise their font size in a Moodle site.
-
-## Installing via uploaded ZIP file ##
-
-1. Log in to your Moodle site as an admin and go to _Site administration >
-   Plugins > Install plugins_.
+> Install plugins_.
 2. Upload the ZIP file with the plugin code. You should only be prompted to add
    extra details if your plugin type is not automatically detected.
 3. Check the plugin validation report and finish the installation.
