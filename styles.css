@@ -20,27 +20,33 @@ along with Moodle.  If not, see <https://www.gnu.org/licenses/>. */
  * @license     https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-body.accessibility-letterspacing--10, body.accessibility-letterspacing--10 * {
+body.accessibility-letterspacing--10,
+body.accessibility-letterspacing--10 * {
     letter-spacing: -0.10rem;
 }
 
-body.accessibility-letterspacing-10, body.accessibility-letterspacing-10 * {
+body.accessibility-letterspacing-10,
+body.accessibility-letterspacing-10 * {
     letter-spacing: 0.10rem;
 }
 
-body.accessibility-letterspacing-20, body.accessibility-letterspacing-20 * {
+body.accessibility-letterspacing-20,
+body.accessibility-letterspacing-20 * {
     letter-spacing: 0.20rem;
 }
 
-body.accessibility-letterspacing-30, body.accessibility-letterspacing-30 * {
+body.accessibility-letterspacing-30,
+body.accessibility-letterspacing-30 * {
     letter-spacing: 0.30rem;
 }
 
-body.accessibility-letterspacing-40, body.accessibility-letterspacing-40 * {
+body.accessibility-letterspacing-40,
+body.accessibility-letterspacing-40 * {
     letter-spacing: 0.40rem;
 }
 
-body.accessibility-letterspacing-50, body.accessibility-letterspacing-50 * {
+body.accessibility-letterspacing-50,
+body.accessibility-letterspacing-50 * {
     letter-spacing: 0.50rem;
 }
 

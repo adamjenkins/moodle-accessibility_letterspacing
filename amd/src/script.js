@@ -22,8 +22,8 @@
  */
 
 import $ from 'jquery';
-import { initrangewidget } from 'local_accessibility/rangewidget';
-import { saveWidgetConfig } from 'local_accessibility/common';
+import {initrangewidget} from 'local_accessibility/rangewidget';
+import {saveWidgetConfig} from 'local_accessibility/common';
 
 /**
  * Initialisation
