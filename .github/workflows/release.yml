@@ -9,7 +9,7 @@ jobs:
 
   ci:
     name: CI
-    uses: ponlawat-w/moodle-local_accessibility/.github/workflows/ci.yml@master
+    uses: adamjenkins/moodle-local_accessibility/.github/workflows/ci.yml@master
     with:
       widget-additional: ${{ github.repository }}
       widget-additional-name: letterspacing
@@ -17,7 +17,7 @@ jobs:
 
   get-version:
     name: Get version info
-    uses: ponlawat-w/moodle-local_accessibility/.github/workflows/get-version.yml@master
+    uses: adamjenkins/moodle-local_accessibility/.github/workflows/get-version.yml@master
     with:
       ref: ${{ github.ref }}
 
